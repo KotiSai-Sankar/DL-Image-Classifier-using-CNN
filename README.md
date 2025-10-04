@@ -286,24 +286,24 @@ predict_image(model, image_index=80, dataset=test_dataset)
 
 ## Training Loss per Epoch
 
-<img width="417" height="386" alt="image" src="https://github.com/user-attachments/assets/2592728c-8156-4164-b625-a5a9741215ed" />
+<img width="513" height="509" alt="image" src="https://github.com/user-attachments/assets/ee04a4d0-f352-491f-84d6-d89b72a1b66b" />
 
 
 
 ## Confusion Matrix
 
-<img width="814" height="683" alt="image" src="https://github.com/user-attachments/assets/5bbbcadc-7d99-4849-b20f-6cc497b572b6" />
+<img width="797" height="698" alt="image" src="https://github.com/user-attachments/assets/340042f7-8a2b-4b0e-bc9b-f4297d844b07" />
 
 
 
 ## Classification Report
 
-<img width="606" height="424" alt="image" src="https://github.com/user-attachments/assets/8add9290-73c7-4a21-8ba2-ba8278aa9e7e" />
+<img width="566" height="344" alt="image" src="https://github.com/user-attachments/assets/5a89d487-f6bd-4945-8708-de2c2e2d11ba" />
 
 
 ### New Sample Data Prediction
 
-<img width="689" height="629" alt="image" src="https://github.com/user-attachments/assets/d8bd6db5-17ee-42bd-971a-d08857e3985c" />
+<img width="465" height="498" alt="image" src="https://github.com/user-attachments/assets/ae9f3c94-deff-4fa8-bb2a-dc78a4b426a2" />
 
 
 ## RESULT
